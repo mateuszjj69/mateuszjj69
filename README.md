@@ -19,7 +19,5 @@
 
 ![Mateus Oliv GitHub stats](https://github-readme-stats.vercel.app/api?username=mateuszjj69&show_icons=true&theme=transparent)
 
-![Italo Costa GitHub stats](https://github-readme-stats.vercel.app/api?username=Italo027&show_icons=true&theme=transparent)
-
 
 
